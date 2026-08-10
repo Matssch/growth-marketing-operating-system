@@ -10,6 +10,6 @@ The output of this section should make three things clear:
 
 ## Files
 
-- `business-context.md` — starting point and commercial challenge
-- `growth-model.md` — target, funnel logic and growth levers
-- `measurement-principles.md` — how I keep reporting connected to decisions
+- `business-context.md` | starting point and commercial challenge
+- `growth-model.md` | target, funnel logic and growth levers
+- `measurement-principles.md` | how I keep reporting connected to decisions
