@@ -8,7 +8,7 @@ The goal is to group companies that have similar economics, problems and buying 
 
 ## Example segments
 
-### Segment A — Growth-stage SMB
+### Segment A | Growth-stage SMB
 
 - 50–249 employees
 - Faster buying cycle
@@ -16,7 +16,7 @@ The goal is to group companies that have similar economics, problems and buying 
 - More digital / self-directed research
 - Strong fit for scalable demand capture and lifecycle
 
-### Segment B — Mid-market
+### Segment B | Mid-market
 
 - 250–999 employees
 - Multiple stakeholders
@@ -24,7 +24,7 @@ The goal is to group companies that have similar economics, problems and buying 
 - Larger commercial value
 - Hybrid digital + Sales motion
 
-### Segment C — Enterprise
+### Segment C | Enterprise
 
 - 1,000+ employees
 - Longer buying cycle
