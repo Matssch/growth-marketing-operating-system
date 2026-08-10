@@ -1,4 +1,4 @@
-# 04 — Performance Marketing
+# 04 | Performance Marketing
 
 Performance marketing is where spend becomes a commercial decision.
 
