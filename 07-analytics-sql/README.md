@@ -1,4 +1,4 @@
-# 07 — Analytics & SQL
+# 07 | Analytics & SQL
 
 The purpose of analytics is not to prove that Marketing worked.
 
