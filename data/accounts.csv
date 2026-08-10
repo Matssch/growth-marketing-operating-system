@@ -1,0 +1,7 @@
+account_id,account_name,segment,icp_fit_score,intent_score,engagement_score,commercial_potential_score,account_tier
+1,Northstar Logistics,Mid-market,5,4,5,5,Tier 1
+2,BrightDesk,SMB,4,3,4,3,Tier 2
+3,Atlas Manufacturing,Enterprise,5,5,4,5,Tier 1
+4,Nova Services,Mid-market,4,4,3,4,Tier 2
+5,LocalWorks,SMB,2,2,2,2,Tier 3
+6,BluePeak Energy,Enterprise,5,3,3,5,Tier 1

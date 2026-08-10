@@ -1,0 +1,9 @@
+lead_id,account_id,segment,source,became_opportunity
+101,1,Mid-market,Paid Search,1
+102,2,SMB,Paid Social,0
+103,3,Enterprise,LinkedIn,1
+104,4,Mid-market,SEO,1
+105,5,SMB,Paid Search,0
+106,6,Enterprise,LinkedIn,1
+107,1,Mid-market,LinkedIn,1
+108,4,Mid-market,Paid Search,1

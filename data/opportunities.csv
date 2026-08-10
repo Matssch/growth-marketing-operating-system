@@ -1,0 +1,7 @@
+opportunity_id,account_id,segment,acquisition_channel,pipeline_value,stage,closed_won
+201,1,Mid-market,Paid Search,45000,Proposal,0
+202,3,Enterprise,LinkedIn,90000,Negotiation,0
+203,4,Mid-market,SEO,30000,Closed Won,1
+204,6,Enterprise,LinkedIn,75000,Discovery,0
+205,1,Mid-market,LinkedIn,40000,Closed Won,1
+206,4,Mid-market,Paid Search,30000,Discovery,0
