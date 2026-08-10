@@ -1,4 +1,4 @@
-# 03 — Demand Generation & ABM
+# 03 | Demand Generation & ABM
 
 Demand generation is not a synonym for lead generation.
 
