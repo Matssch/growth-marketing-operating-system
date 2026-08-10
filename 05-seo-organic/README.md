@@ -1,4 +1,4 @@
-# 05 — SEO & Organic Growth
+# 05 | SEO & Organic Growth
 
 SEO should create a compounding source of qualified demand.
 
