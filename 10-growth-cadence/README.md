@@ -1,10 +1,10 @@
-# 10 — Growth Cadence
+# 10 | Growth rythm
 
 A growth system only works if decisions happen regularly.
 
 The operating cadence connects channel execution with commercial outcomes.
 
-## Weekly — Run the business
+## Weekly | Run the business
 
 Focus:
 
@@ -19,7 +19,7 @@ Output:
 
 **What changed this week, and what are we changing because of it?**
 
-## Monthly — Improve the system
+## Monthly | Improve the system
 
 Focus:
 
@@ -35,7 +35,7 @@ Output:
 
 **Where should we increase, reduce or change investment?**
 
-## Quarterly — Revisit the assumptions
+## Quarterly | Revisit the assumptions
 
 Focus:
 
