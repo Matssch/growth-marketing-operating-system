@@ -1,4 +1,4 @@
-# 02 — ICP & Segmentation
+# 02 | ICP & Segmentation
 
 Broad targeting looks scalable until the budget gets spread across buyers who behave completely differently.
 
