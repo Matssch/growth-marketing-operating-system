@@ -1,4 +1,4 @@
-# 06 — CRO & Lifecycle
+# 06 | CRO & Lifecycle
 
 Acquisition gets expensive when the journey leaks.
 
