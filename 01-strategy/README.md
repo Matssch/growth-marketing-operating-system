@@ -1,4 +1,4 @@
-# 01 — Growth Strategy
+# 01 | Growth Strategy
 
 Strategy is where I define the commercial problem before choosing channels.
 
