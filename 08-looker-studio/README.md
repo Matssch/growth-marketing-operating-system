@@ -1,4 +1,4 @@
-# 08 — Looker Studio Growth Framework
+# 08 | Looker Studio Growth Framework
 
 A dashboard should not be a storage place for charts.
 
