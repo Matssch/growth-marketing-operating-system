@@ -1,6 +1,6 @@
 # Growth Marketing Operating System
 
-> A practical framework for turning market opportunity into measurable growth across demand generation, performance marketing, SEO, CRO, lifecycle, analytics and revenue.
+A practical framework for turning market opportunity into measurable growth across demand generation, performance marketing, SEO, CRO, lifecycle, analytics and revenue.
 
 ## Why I built this
 
@@ -114,34 +114,34 @@ Reporting without a decision is just administration.
 
 ## Repository map
 
-### [01 — Strategy](./01-strategy/)
+### [01 | Strategy](./01-strategy/)
 Business context, growth model and how I translate a revenue target into a measurable marketing system.
 
-### [02 — ICP & Segmentation](./02-icp-segmentation/)
+### [02 | ICP & Segmentation](./02-icp-segmentation/)
 ICP design, segment prioritisation and the logic used to decide where to focus.
 
-### [03 — Demand Generation & ABM](./03-demand-generation-abm/)
+### [03 | Demand Generation & ABM](./03-demand-generation-abm/)
 Demand creation, demand capture, account prioritisation, buying groups and Sales alignment.
 
-### [04 — Performance Marketing](./04-performance-marketing/)
+### [04 | Performance Marketing](./04-performance-marketing/)
 Paid acquisition, funnel quality, CAC, channel economics and budget allocation.
 
-### [05 — SEO & Organic Growth](./05-seo-organic/)
+### [05 | SEO & Organic Growth](./05-seo-organic/)
 Technical foundations, search demand, content architecture and organic conversion.
 
-### [06 — CRO & Lifecycle](./06-cro-lifecycle/)
+### [06 | CRO & Lifecycle](./06-cro-lifecycle/)
 Conversion paths, onboarding, nurture, activation and retention.
 
-### [07 — Analytics & SQL](./07-analytics-sql/)
+### [07 | Analytics & SQL](./07-analytics-sql/)
 KPI architecture, funnel analysis and practical SQL used to answer growth questions.
 
-### [08 — Looker Studio Framework](./08-looker-studio/)
+### [08 | Looker Studio Framework](./08-looker-studio/)
 A reusable dashboard architecture built around decisions rather than reporting volume.
 
-### [09 — Experimentation](./09-experimentation/)
+### [09 | Experimentation](./09-experimentation/)
 Hypothesis design, prioritisation and the scale / improve / kill loop.
 
-### [10 — Growth Cadence](./10-growth-cadence/)
+### [10 | Growth Cadence](./10-growth-cadence/)
 How I would run the system weekly, monthly and quarterly across Marketing and Sales.
 
 ---
@@ -194,7 +194,7 @@ A metric only becomes useful when it changes a decision.
 
 ## Core principles
 
-**Business first. Channels second.**
+**Business first, channels second.**
 
 I do not start with “we should run LinkedIn Ads.” I start with the commercial problem and work backwards.
 
