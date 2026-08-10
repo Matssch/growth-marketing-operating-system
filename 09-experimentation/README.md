@@ -1,4 +1,4 @@
-# 09 — Experimentation
+# 09 | Experimentation
 
 Growth is a sequence of informed bets.
 
