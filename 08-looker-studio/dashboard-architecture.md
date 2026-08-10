@@ -1,6 +1,6 @@
 # Dashboard Architecture
 
-## 01 — Executive Growth
+## 01 | Executive Growth
 
 Question:
 
@@ -16,7 +16,7 @@ Metrics:
 - CAC
 - Forecast vs target
 
-## 02 — Pipeline
+## 02 | Pipeline
 
 Question:
 
@@ -31,7 +31,7 @@ Views:
 - Win rate
 - Deal value
 
-## 03 — Acquisition
+## 03 | Acquisition
 
 Question:
 
@@ -46,7 +46,7 @@ Views:
 - Pipeline / spend
 - Trend
 
-## 04 — Funnel
+## 04 | Funnel
 
 Question:
 
@@ -59,7 +59,7 @@ Views:
 - Conversion by source
 - Conversion by segment
 
-## 05 — Segments
+## 05 | Segments
 
 Question:
 
@@ -74,7 +74,7 @@ Views:
 - ACV
 - Sales cycle
 
-## 06 — ABM / Accounts
+## 06 | ABM / Accounts
 
 Question:
 
@@ -89,7 +89,7 @@ Views:
 - Buying-group coverage
 - Next action
 
-## 07 — Paid Performance
+## 07 | Paid Performance
 
 Question:
 
@@ -119,7 +119,7 @@ Views:
 - Organic CVR
 - Organic pipeline
 
-## 09 — CRO & Lifecycle
+## 09 | CRO & Lifecycle
 
 Question:
 
@@ -133,7 +133,7 @@ Views:
 - Activation
 - Retention
 
-## 10 — Experiments & Data Quality
+## 10 | Experiments & Data Quality
 
 Question:
 
